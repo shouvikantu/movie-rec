@@ -1,4 +1,4 @@
-"# movie-recommendation System" 
+# movie-recommendation System
 
 Three types of Recommender Systems:
     - Content Based (Based on Content Preference), 
